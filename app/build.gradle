@@ -1,7 +1,7 @@
-plugins {
-    id 'com.android.library'
-}
-//apply plugin: 'com.android.library'    // 认准这行
+//plugins {
+//    id 'com.android.library'
+//}
+apply plugin: 'com.android.library'    // 认准这行
 apply plugin: 'com.github.dcendents.android-maven'    // 添加本行
 group='com.github.weijinyuan186'
 
