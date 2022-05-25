@@ -11,6 +11,6 @@ package com.bw.utilwjy;
 public class MyUtils {
 
     public static int test(){
-        return 8;
+        return 1;
     }
 } 
